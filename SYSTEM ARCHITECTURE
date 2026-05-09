@@ -1,0 +1,29 @@
+# SYSTEM ARCHITECTURE
+
+## Controller Layer
+- Arduino UNO:
+  Handles movement and Bluetooth control
+
+- Arduino Nano:
+  Handles interaction systems and OLED rendering
+
+---
+
+## Sensor Layer
+- Ultrasonic sensor:
+  User/object detection
+
+- Touch sensor:
+  Interaction trigger
+
+---
+
+## Output Layer
+- OLED:
+  Facial expressions
+
+- Servo:
+  Lid mechanism
+
+- Motors:
+  Robot mobility
